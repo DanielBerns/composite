@@ -1,0 +1,3 @@
+[submodule "varda"]
+	path = varda
+	url = git@github.com:DanielBerns/varda.git
